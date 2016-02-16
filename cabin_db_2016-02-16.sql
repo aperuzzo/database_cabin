@@ -121,8 +121,8 @@ LOCK TABLES `wp_options` WRITE;
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`)
 VALUES
-	(1,'siteurl','http://localhost:8888/php/cabin-project','yes'),
-	(2,'home','http://localhost:8888/php/cabin-project','yes'),
+	(1,'siteurl','http://mcad.anthonyperuzzo.com','yes'),
+	(2,'home','http://mcad.anthonyperuzzo.com','yes'),
 	(3,'blogname','Cabin Project','yes'),
 	(4,'blogdescription','Just another WordPress site','yes'),
 	(5,'users_can_register','0','yes'),
